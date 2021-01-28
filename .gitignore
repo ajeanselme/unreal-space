@@ -1,3 +1,8 @@
+# ignore every folder except github folder
+/Content/*
+!/Content/_Github/
+
+
 # Visual Studio 2015 user specific files
 .vs/
 
